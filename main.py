@@ -1,4 +1,4 @@
 # Ulysse Doyon
 # compte le nombre de mot
-def word_count(phrase):
+def count_word(phrase):
     return len(phrase.split(" "))
